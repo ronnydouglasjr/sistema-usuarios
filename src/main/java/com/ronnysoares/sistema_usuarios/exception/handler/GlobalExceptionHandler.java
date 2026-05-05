@@ -1,7 +1,8 @@
 package com.ronnysoares.sistema_usuarios.exception.handler;
 
-import com.ronny.javanauta.exception.EmailJaCadastradoException;
-import com.ronny.javanauta.exception.UsuarioNotFoundException;
+
+import com.ronnysoares.sistema_usuarios.exception.EmailJaCadastradoException;
+import com.ronnysoares.sistema_usuarios.exception.UsuarioNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
