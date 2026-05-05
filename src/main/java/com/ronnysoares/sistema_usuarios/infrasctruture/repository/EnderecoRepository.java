@@ -1,6 +1,7 @@
 package com.ronnysoares.sistema_usuarios.infrasctruture.repository;
 
-import com.ronny.javanauta.infrastructure.entity.EnderecoEntity;
+
+import com.ronnysoares.sistema_usuarios.infrasctruture.entity.EnderecoEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
